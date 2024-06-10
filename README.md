@@ -18,8 +18,6 @@
 
 ## [Overview](#overview)
 
-## Overview
-
 This project is a comprehensive analysis of retail sales data aimed at understanding fluctuations in client sales performance, customer demographics, and purchasing behavior. Using Excel, Python and SQL, the analysis addresses key questions such as how customer age and gender influence purchasing behavior, sales patterns across different time periods, product category appeal, and seasonal shopping habits. The insights gained from this analysis can help retailers optimize inventory, marketing strategies, and promotional efforts to enhance sales performance.
 
 ## [Dataset](#dataset)
